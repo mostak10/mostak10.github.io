@@ -2587,7 +2587,9 @@ input, select, textarea {
 		}
 
 /* Image */
-
+	.circular--square{
+		border-radius: 50%;
+	}
 	.image {
 		border: 0;
 		display: inline-block;
@@ -4687,3 +4689,4 @@ input, select, textarea {
 		}
 
 	}
+
